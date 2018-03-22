@@ -26,8 +26,6 @@
 		"source":   "https://github.com/kohana-minion/tasks-migrations"
 	},
 	"require": {
-		"kohana/core":         ">=3.3",
-		"kohana/minion":       ">=3.3",
 		"php":                 ">=5.2.4"
 	},
 	"extra": {
